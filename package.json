@@ -1,0 +1,38 @@
+{
+  "name": "rill-mapper-gallery",
+  "version": "1.0.0",
+  "description": "Showcase your blockchain mappings with Rill Mapper Gallery, offering additional visualization and gallery functionalities.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ooze-cruze/rill-mapper-gallery"
+  },
+  "author": "ooze-cruze",
+  "license": "MIT",
+  "dependencies": {
+    "blockchain-rill-mapper": "1.0.0",
+    "rill-mapper-gallery": "1.0.0",
+    "passport": "1.0.0",
+    "axios": "1.0.0",
+    "socket.io": "1.0.0",
+    "dotenv": "1.0.0",
+    "node-sass": "1.0.0",
+    "supertest": "1.0.0",
+    "redux": "1.0.0",
+    "firebase": "1.0.0",
+    "moment": "1.0.0",
+    "lodash": "1.0.0",
+    "express": "1.0.0",
+    "chalk": "1.0.0",
+    "commander": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "cors": "1.0.0",
+    "sinon": "1.0.0",
+    "body-parser": "1.0.0",
+    "debug": "1.0.0",
+    "react-redux": "1.0.0"
+  }
+}
